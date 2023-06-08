@@ -6,7 +6,7 @@ Using the Dataset of flight fares for different routes throughout the year, a Mo
 
 [GitHub Project Link](https://github.com/Siddharth-Singh-Rakwal/Flight-Ticket-Prices-Prediction)
 
-[LinkedIN Project Link](https://www.linkedin.com/posts/siddharth-singh-rakwal-b385a8263_project-machinelearning-dataanalytics-activity-7072523429257580544-Iaeb?utm_source=share&utm_medium=member_desktop)
+[LinkedIN Post Link](https://www.linkedin.com/posts/siddharth-singh-rakwal-b385a8263_project-machinelearning-dataanalytics-activity-7072523429257580544-Iaeb?utm_source=share&utm_medium=member_desktop)
 
 #
 
